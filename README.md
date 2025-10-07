@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/itsihsaney/myLeetCode/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/itsihsaney/myLeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/itsihsaney/myLeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
