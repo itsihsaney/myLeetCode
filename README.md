@@ -14,6 +14,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsihsaney/myLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/itsihsaney/myLeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/itsihsaney/myLeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/itsihsaney/myLeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/itsihsaney/myLeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/itsihsaney/myLeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -38,4 +40,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsihsaney/myLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/itsihsaney/myLeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/itsihsaney/myLeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/itsihsaney/myLeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
