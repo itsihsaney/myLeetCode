@@ -8,6 +8,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/itsihsaney/myLeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/itsihsaney/myLeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/itsihsaney/myLeetCode/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itsihsaney/myLeetCode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/itsihsaney/myLeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
